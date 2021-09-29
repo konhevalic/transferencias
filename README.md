@@ -1,16 +1,14 @@
-# hello_wolrd
+# Projeto desenvovido utilizando:
 
-A new Flutter project.
+- Dart
+- Flutter versão 2.5.0
 
-## Getting Started
+### Projeto
+  Neste projeto foi desenvolvido um projeto de lista de transferências, contendo 2 telas: a primeira para mostrar uma lista de transferências, e a segunda tela contém os inputs para colocar o número da conta e o valor a ser transferido.
 
-This project is a starting point for a Flutter application.
+Como executar
+- Clone o repositório
+- Inicie seu app com flutter run
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
