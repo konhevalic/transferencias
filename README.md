@@ -1,5 +1,6 @@
-# Projeto desenvovido utilizando:
+# Lista de Transferências
 
+### Projeto utilizando:
 - Dart
 - Flutter versão 2.5.0
 
